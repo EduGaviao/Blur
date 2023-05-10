@@ -10,5 +10,5 @@ Trabalho apresentado na disciplina de Processamento Digital de Imagens, lecionad
  
  ## Procedimento para clonar o repositório
 ```
-git clone https://github.com/DuGayviao/Contagem-de-Arroz.git](https://github.com/DuGayviao/Blur.git
+git clone https://github.com/DuGayviao/Blur.git
 ```
